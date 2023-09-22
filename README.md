@@ -16,16 +16,20 @@ J'ai des compétences en SISR
 - 
   
 ### systeme
-- windows: Administration et maintenance
-- Linux
+- windows: Administration et maintenance. Powershell. ActiveDirectory
+- Linux : Administration système. Bash
 - Android
 - MD5
 - MSDos
 - OS2/Warp
+- Supervision Nagios, Zabbix
+- 
 ### Virtualisation
 - Virtualbox
 - AWS
 - Docker
+- VMWare
+- qEMU
 -  
 ### Réseau
 - Cisco Packet Tracer
