@@ -11,13 +11,17 @@ J'ai des compétences en SISR
 - javascript
 - Python
 - Git
+- C
+- java
+- 
   
 ### systeme
 - windows: Administration et maintenance
 - Linux
 - Android
 - MD5
-  
+- MSDos
+- OS2/Warp
 ### Virtualisation
 - Virtualbox
 - AWS
