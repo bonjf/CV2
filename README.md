@@ -10,6 +10,7 @@ J'ai des compétences en SISR
 - CSS
 - javascript
 - Python
+- Git
   
 ### systeme
 - windows: Administration et maintenance
